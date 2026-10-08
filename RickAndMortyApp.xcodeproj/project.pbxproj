@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		A05512073070294200535802 /* PhotosNasa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotosNasa.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A05512073070294200535802 /* RickAndMortyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RickAndMortyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A05512093070294200535802 /* PhotosNasa */ = {
+		A05512093070294200535802 /* RickAndMortyApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PhotosNasa;
+			path = RickAndMortyApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -30,7 +30,7 @@
 		A05511FE3070294200535802 = {
 			isa = PBXGroup;
 			children = (
-				A05512093070294200535802 /* PhotosNasa */,
+				A05512093070294200535802 /* RickAndMortyApp */,
 				A05512083070294200535802 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -38,7 +38,7 @@
 		A05512083070294200535802 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A05512073070294200535802 /* PhotosNasa.app */,
+				A05512073070294200535802 /* RickAndMortyApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -46,9 +46,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A05512063070294200535802 /* PhotosNasa */ = {
+		A05512063070294200535802 /* RickAndMortyApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A05512123070294300535802 /* Build configuration list for PBXNativeTarget "PhotosNasa" */;
+			buildConfigurationList = A05512123070294300535802 /* Build configuration list for PBXNativeTarget "RickAndMortyApp" */;
 			buildPhases = (
 				A05512033070294200535802 /* Sources */,
 				A05512043070294200535802 /* Frameworks */,
@@ -57,11 +57,11 @@
 			buildRules = (
 			);
 			fileSystemSynchronizedGroups = (
-				A05512093070294200535802 /* PhotosNasa */,
+				A05512093070294200535802 /* RickAndMortyApp */,
 			);
-			name = PhotosNasa;
+			name = RickAndMortyApp;
 			productName = PhotosNasa;
-			productReference = A05512073070294200535802 /* PhotosNasa.app */;
+			productReference = A05512073070294200535802 /* RickAndMortyApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -79,7 +79,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A05512023070294200535802 /* Build configuration list for PBXProject "PhotosNasa" */;
+			buildConfigurationList = A05512023070294200535802 /* Build configuration list for PBXProject "RickAndMortyApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -93,7 +93,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A05512063070294200535802 /* PhotosNasa */,
+				A05512063070294200535802 /* RickAndMortyApp */,
 			);
 		};
 /* End PBXProject section */
@@ -115,7 +115,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A05512103070294300535802 /* Debug configuration for PBXProject "PhotosNasa" */ = {
+		A05512103070294300535802 /* Debug configuration for PBXProject "RickAndMortyApp" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -179,7 +179,7 @@
 			};
 			name = Debug;
 		};
-		A05512113070294300535802 /* Release configuration for PBXProject "PhotosNasa" */ = {
+		A05512113070294300535802 /* Release configuration for PBXProject "RickAndMortyApp" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -236,7 +236,7 @@
 			};
 			name = Release;
 		};
-		A05512133070294300535802 /* Debug configuration for PBXNativeTarget "PhotosNasa" */ = {
+		A05512133070294300535802 /* Debug configuration for PBXNativeTarget "RickAndMortyApp" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -268,7 +268,7 @@
 			};
 			name = Debug;
 		};
-		A05512143070294300535802 /* Release configuration for PBXNativeTarget "PhotosNasa" */ = {
+		A05512143070294300535802 /* Release configuration for PBXNativeTarget "RickAndMortyApp" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -303,19 +303,19 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A05512023070294200535802 /* Build configuration list for PBXProject "PhotosNasa" */ = {
+		A05512023070294200535802 /* Build configuration list for PBXProject "RickAndMortyApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A05512103070294300535802 /* Debug configuration for PBXProject "PhotosNasa" */,
-				A05512113070294300535802 /* Release configuration for PBXProject "PhotosNasa" */,
+				A05512103070294300535802 /* Debug configuration for PBXProject "RickAndMortyApp" */,
+				A05512113070294300535802 /* Release configuration for PBXProject "RickAndMortyApp" */,
 			);
 			defaultConfigurationName = Release;
 		};
-		A05512123070294300535802 /* Build configuration list for PBXNativeTarget "PhotosNasa" */ = {
+		A05512123070294300535802 /* Build configuration list for PBXNativeTarget "RickAndMortyApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A05512133070294300535802 /* Debug configuration for PBXNativeTarget "PhotosNasa" */,
-				A05512143070294300535802 /* Release configuration for PBXNativeTarget "PhotosNasa" */,
+				A05512133070294300535802 /* Debug configuration for PBXNativeTarget "RickAndMortyApp" */,
+				A05512143070294300535802 /* Release configuration for PBXNativeTarget "RickAndMortyApp" */,
 			);
 			defaultConfigurationName = Release;
 		};
